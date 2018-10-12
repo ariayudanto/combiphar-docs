@@ -9,7 +9,7 @@ Request - Parameters :
 example : "iphone"
 
 {CATEGORY}
-[OPTIONAL] category to be search. It can be retrieved from step "1b (category list)" and look for "slug" key in JSON response.
+[OPTIONAL] category to be search. It can be retrieved from "Step 2 - Category List" and look for "slug" key in JSON response.
 ex : "elektronik-dan-telekomunikasi"
 
 {LIMIT}
