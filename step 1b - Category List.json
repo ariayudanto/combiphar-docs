@@ -4,7 +4,6 @@ Request URL :
 GET http://{MBIZ_API_HOST}/catalog/categories
 
 Request - Headers :
-    - Authorization : Bearer {JWT_TOKEN_FROM_MBIZ}
     - Content-Type : application/json
     - x-access-token : {TOKEN_MBIZ}
 
