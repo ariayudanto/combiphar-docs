@@ -4,7 +4,7 @@ Request URL :
 GET http://{MBIZ_API_HOST}/{catalog_uri}
 
 {catalog_uri} 
-[MANDATORY] URI path for expected catalog detail. It can be retrieved from "Step 3 - Search Catalog" and look for "url" key in JSON response.
+[MANDATORY] URI path for expected catalog detail. It can be retrieved from "04.Search Catalog" and look for "url" key in JSON response.
 example : 
 {
     "items":
