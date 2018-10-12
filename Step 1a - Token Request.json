@@ -1,0 +1,21 @@
+Getting Token for authentication
+
+Request URL :
+POST http://{MBIZ_API_HOST}/auth/request
+
+Request - Headers :
+    - Content-Type : application/json
+
+Request - Body :
+    {
+        "public_key": "{PUBLIC_KEY}", // string (diberikan oleh mbiz)
+        "user_id": {ID USER}, // integer (diberikan oleh mbiz)
+        "scope": "*" // string
+    }
+
+Response
+STATUS 200 OK
+
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWJsaWNfa2V5IjoiY29tYmlwaGFyLVJ1VGdxMSIsInVzZXJfaWQiOjE0LCJzY29wZSI6IioiLCJpYXQiOjE1Mzg3MzQ4MTMsImV4cCI6MTUzODgyMTIxM30.Emk2udCoxsYlYnOnK6wDcaBvsKgI2B8ZXD-WCkhwaUQ"
+}

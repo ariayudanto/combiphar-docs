@@ -1,0 +1,78 @@
+Catalog detail
+
+Request URL :
+GET http://{MBIZ_API_HOST}/{catalog_uri}
+
+{catalog_uri} 
+[MANDATORY] URI path for expected catalog detail. It can be retrieved from step "1c (search catalog)" and look for "url" key in JSON response.
+example : 
+{
+    "items":
+    [
+        {...,
+        "url": "catalog/detail/quaker-instant-oatmeal-refill-1-karton-isi-12-pouch-800-gram-100-gram-198-211"
+        }
+    ]
+ }
+ GET http://{MBIZ_API_HOST}/catalog/detail/quaker-instant-oatmeal-refill-1-karton-isi-12-pouch-800-gram-100-gram-198-211
+
+
+Request - Headers :
+    - Content-Type : application/json
+    - x-access-token : {TOKEN_MBIZ}
+    
+Response :
+STATUS 200 OK
+
+{
+    "sku_no": "SKU000000000191",
+    "title": "Indomie Mie Goreng Instan - Rasa Rendang - 1 Karton Isi 40 Pcs @ 91 gram",
+    "description": "<p><strong>Indomie</strong> menawarkan mie goreng instan dengan berbagai varian rasa yang pastinya gurih dan lezat. Indomie rasa rendang merupakan varian rasa baru dari Indomie yang akan memberikan rasa rendang yang tajam dan nikmat. Terbuat dari komposisi tepung terigu, minyak nabati, tepung tapioka, garam, penstabil, pengatur keasaman, mineral, pewarna (tartrazin CI 19140), antioksidan (TBHQ). Indomie dengan bahan dari tepung terigu, rempah-rempah dan bumbu terbaik menjadikan Indomie senantiasa menjadi mie instan pilihan nomor satu di Indonesia. Penyajian yang mudah, harga yang lebih hemat serta rasa yang lezat pun membuat mie instan ini peneman Anda di saat lapar.</p>",
+    "short_description": "Indomie menawarkan mie goreng instan dengan berbagai varian rasa yang pastinya gurih dan lezat. ",
+    "weight": 0.091,
+    "height": 2,
+    "width": 10,
+    "length": 15,
+    "status": 99,
+    "min_price": 180000,
+    "main_image": "http://img.mbiz.co.id/skus_image/thumbs/500x500/2017/09/12/1b4e09c9efcaf02e1ed9c4494598da2a.jpg",
+    "images": [
+        "http://img.mbiz.co.id/skus_image/thumbs/500x500/2017/09/12/1b4e09c9efcaf02e1ed9c4494598da2a.jpg"
+    ],
+    "sellers": [
+        {
+            "product_id": 19,
+            "company_seller_id": 75,
+            "hub_id": 18,
+            "stock": 394,
+            "status": 99,
+            "created_by": 77,
+            "warranty": 0,
+            "warranty_period": "",
+            "warranty_details": "",
+            "created_at": "2017-09-27T09:01:28+00:00",
+            "tiers": [
+                {
+                    "price": 220000,
+                    "min_qty": 1,
+                    "max_qty": 1
+                },
+                {
+                    "price": 209000,
+                    "min_qty": 2,
+                    "max_qty": 10
+                },
+                {
+                    "price": 198000,
+                    "min_qty": 11,
+                    "max_qty": 0
+                }
+            ],
+            "country": "INDONESIA",
+            "province": "JAWA BARAT",
+            "city": "KOTA BOGOR",
+            "district": "Bogor Utara",
+            "seller_name": "Vendor51"
+        }
+    ]
+}
