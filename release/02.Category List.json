@@ -13,21 +13,56 @@ STATUS 200 OK
     {
         "name": "Agrikultur dan Produk Segar",
         "slug": "agrikultur-dan-produk-segar",
+        "image": "https://www.mbiz.co.id/assets/images/nav-ico1.png"
     },
     {
         "name": "Pakaian, Tekstil dan Aksesoris",
         "slug": "pakaian-tekstil-dan-aksesoris",
+        "image": "https://www.mbiz.co.id/assets/images/nav-ico2.png"
     },
     {
         "name": "Elektronik dan Komunikasi",
         "slug": "elektronik-dan-telekomunikasi",
+        "image": "https://www.mbiz.co.id/assets/images/nav-ico3.png"
     },
     {
         "name": "Kesehatan dan Kecantikan",
         "slug": "kesehatan-dan-kecantikan",
+        "image": "https://www.mbiz.co.id/assets/images/nav-ico4.png"
     },
     {
         "name": "Peralatan Rumah, Penerangan dan Industri",
         "slug": "peralatan-rumah-penerangan-dan-konstruksi",
+        "image": "https://www.mbiz.co.id/assets/images/nav-ico5.png"
+    },
+    {
+        "name": "Peralatan Kantor dan Penyimpanan",
+        "slug": "peralatan-kantor-dan-penyimpanan",
+        "image": "https://www.mbiz.co.id/assets/images/nav-ico6.png"
+    },
+    {
+        "name": "Groceries",
+        "slug": "groceries",
+        "image": "https://www.mbiz.co.id/assets/images/nav-ico7.png"
+    },
+    {
+        "name": "Otomotif dan Transportasi",
+        "slug": "otomotif-dan-transportasi",
+        "image": "https://www.mbiz.co.id/assets/images/nav-ico8.png"
+    },
+    {
+        "name": "Olahraga, Hobi dan Hiburan",
+        "slug": "olahraga-hobby-dan-hiburan",
+        "image": "https://www.mbiz.co.id/assets/images/nav-ico9.png"
+    },
+    {
+        "name": "Peralatan Industri, Mesin dan Bahan Baku",
+        "slug": "peralatan-industri-mesin-dan-bahan-baku",
+        "image": "https://www.mbiz.co.id/assets/images/nav-ico10.png"
+    },
+    {
+        "name": "Jasa",
+        "slug": "jasa",
+        "image": "https://www.mbiz.co.id/assets/images/nav-ico21.png"
     }
 ]
