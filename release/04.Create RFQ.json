@@ -1,0 +1,27 @@
+curl - X POST "http://api.mbiz.loc/rfqs" - H "accept: application/json" - H "AccessToken: 50008fc2f580d8d6365311696163fbf9" - H "content-type: application/x-www-form-urlencoded" - d "buyer_company_id=20&notes=PACKAGE%20PERFECTLY&reference_no=PO-2319-MP&status=1&items=121"
+
+Request Body(json) 
+{
+    "notes": "Package perfectly",
+    "reference_no": "PO-2319-MP",
+    "receiver_name": "John Doe",
+    "receiver_phone": "0867717123",
+    "shipping_district_code": "11.01.03",
+    "shipping_address": "Jalan Medan Merdeka Barat No. 12 RT 003 RW 002",
+    "shipping_zipcode": "15151",
+    "items": [{
+            "product_id": 971,
+            "company_seller_id": 4,
+            "qty": 3,
+            "price": 887500
+        }
+    ]
+}
+
+Response 200 OK {
+    "message": "RFQ is being processed"
+}
+
+Response 400 {
+    "message": "{error_message}"
+}
