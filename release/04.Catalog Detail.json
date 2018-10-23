@@ -25,54 +25,245 @@ Response :
 STATUS 200 OK
 
 {
-    "sku_no": "SKU000000000191",
-    "title": "Indomie Mie Goreng Instan - Rasa Rendang - 1 Karton Isi 40 Pcs @ 91 gram",
-    "description": "<p><strong>Indomie</strong> menawarkan mie goreng instan dengan berbagai varian rasa yang pastinya gurih dan lezat. Indomie rasa rendang merupakan varian rasa baru dari Indomie yang akan memberikan rasa rendang yang tajam dan nikmat. Terbuat dari komposisi tepung terigu, minyak nabati, tepung tapioka, garam, penstabil, pengatur keasaman, mineral, pewarna (tartrazin CI 19140), antioksidan (TBHQ). Indomie dengan bahan dari tepung terigu, rempah-rempah dan bumbu terbaik menjadikan Indomie senantiasa menjadi mie instan pilihan nomor satu di Indonesia. Penyajian yang mudah, harga yang lebih hemat serta rasa yang lezat pun membuat mie instan ini peneman Anda di saat lapar.</p>",
-    "short_description": "Indomie menawarkan mie goreng instan dengan berbagai varian rasa yang pastinya gurih dan lezat. ",
-    "weight": 0.091,
-    "height": 2,
-    "width": 10,
-    "length": 15,
+    "sku_no": "SKU000000004384",
+    "title": "Motor Vespa 125cc warna Orange \"Yamaha\"",
+    "description": "<h4><span style=\"color: #0000ff;\">Vespa adalah merek sepeda motor jenis skuter yang berasal dari Italia. Perusahaan induk dari Vespa, adalah Piaggio</span></h4>",
+    "short_description": "Vespa adalah merek sepeda motor jenis skuter yang berasal dari Italia. Perusahaan induk dari Vespa, adalah Piaggio",
+    "weight": "50 kg",
+    "height": "150 cm",
+    "width": "100 cm",
+    "length": "250 cm",
+    "package_weight": "50 kg",
+    "package_height": "150 cm",
+    "package_width": "100 cm",
+    "package_length": "250 cm",
     "status": 99,
-    "min_price": 180000,
-    "main_image": "http://img.mbiz.co.id/skus_image/thumbs/500x500/2017/09/12/1b4e09c9efcaf02e1ed9c4494598da2a.jpg",
+    "main_image": "http://img.mataharibiz.net/skus_image/thumbs/500x500/2018/07/05/2f31116301112c448003a53cff4e9a29.jpg",
     "images": [
-        "http://img.mbiz.co.id/skus_image/thumbs/500x500/2017/09/12/1b4e09c9efcaf02e1ed9c4494598da2a.jpg"
+        "http://img.mataharibiz.net/skus_image/thumbs/500x500/2018/07/05/2f31116301112c448003a53cff4e9a29.jpg",
+        "http://img.mataharibiz.net/skus_image/thumbs/500x500/2018/07/05/344bac3518a27738fa11c0fdd5031b1e.jpg",
+        "http://img.mataharibiz.net/skus_image/thumbs/500x500/2018/07/06/09c434ebb166b8ce080f3d35977aa8cb.jpg"
     ],
     "sellers": [
         {
-            "product_id": 19,
-            "company_seller_id": 75,
-            "hub_id": 18,
-            "stock": 394,
+            "product_id": 872,
+            "company_seller_id": 6,
+            "hub_id": 4,
+            "stock": 44,
             "status": 99,
-            "created_by": 77,
-            "warranty": 0,
-            "warranty_period": "",
-            "warranty_details": "",
-            "created_at": "2017-09-27T09:01:28+00:00",
+            "created_by": 7,
+            "warranty": 2,
+            "warranty_period": "1",
+            "warranty_details": "1tahun garansi resmi",
+            "created_at": "2018-08-15T02:34:34+00:00",
+            "dropships": [],
             "tiers": [
                 {
-                    "price": 220000,
+                    "price": 26842100,
                     "min_qty": 1,
-                    "max_qty": 1
+                    "max_qty": 2
                 },
                 {
-                    "price": 209000,
-                    "min_qty": 2,
+                    "price": 26842100,
+                    "min_qty": 3,
+                    "max_qty": 5
+                },
+                {
+                    "price": 26842100,
+                    "min_qty": 6,
                     "max_qty": 10
-                },
-                {
-                    "price": 198000,
-                    "min_qty": 11,
-                    "max_qty": 0
                 }
             ],
             "country": "INDONESIA",
-            "province": "JAWA BARAT",
-            "city": "KOTA BOGOR",
-            "district": "Bogor Utara",
-            "seller_name": "Vendor51"
+            "province": "DKI JAKARTA",
+            "city": "KOTA ADM. JAKARTA TIMUR",
+            "seller_name": "Store - 6"
+        },
+        {
+            "product_id": 964,
+            "company_seller_id": 4,
+            "hub_id": 4,
+            "stock": 62,
+            "status": 99,
+            "created_by": 6,
+            "warranty": 0,
+            "warranty_period": "",
+            "warranty_details": "-",
+            "created_at": "2018-10-04T04:35:59+00:00",
+            "dropships": [],
+            "tiers": [
+                {
+                    "price": 28947300,
+                    "min_qty": 1,
+                    "max_qty": 2
+                },
+                {
+                    "price": 28947300,
+                    "min_qty": 3,
+                    "max_qty": 5
+                },
+                {
+                    "price": 28947300,
+                    "min_qty": 6,
+                    "max_qty": 10
+                }
+            ],
+            "country": "INDONESIA",
+            "province": "DKI JAKARTA",
+            "city": "KOTA ADM. JAKARTA TIMUR",
+            "seller_name": "Store - 4"
+        },
+        {
+            "product_id": 841,
+            "company_seller_id": 111,
+            "hub_id": 4,
+            "stock": 16,
+            "status": 99,
+            "created_by": 235,
+            "warranty": 2,
+            "warranty_period": "1",
+            "warranty_details": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+            "created_at": "2018-07-05T10:15:57+00:00",
+            "dropships": [
+                {
+                    "id": 800,
+                    "company_product_id": "841",
+                    "sku_id": "845",
+                    "province_id": "11",
+                    "city_id": "156",
+                    "created_at": "2018-10-17T07:22:45+00:00",
+                    "hub": [],
+                    "province": {
+                        "id": "11",
+                        "country_id": "1",
+                        "code": "31",
+                        "name": "DKI JAKARTA",
+                        "slug": "dki-jakarta",
+                        "rank": "0",
+                        "status": "99"
+                    },
+                    "city": {
+                        "id": "156",
+                        "province_id": "11",
+                        "name": "KOTA ADM. JAKARTA PUSAT",
+                        "status": "99"
+                    }
+                }
+            ],
+            "tiers": [
+                {
+                    "price": 29599000,
+                    "min_qty": 1,
+                    "max_qty": 2
+                },
+                {
+                    "price": 29018600,
+                    "min_qty": 3,
+                    "max_qty": 5
+                },
+                {
+                    "price": 28438200,
+                    "min_qty": 6,
+                    "max_qty": 10
+                }
+            ],
+            "country": "INDONESIA",
+            "province": "DKI JAKARTA",
+            "city": "KOTA ADM. JAKARTA TIMUR",
+            "seller_name": "Store - 111"
+        },
+        {
+            "product_id": 848,
+            "company_seller_id": 4,
+            "hub_id": 4,
+            "stock": 47,
+            "status": 99,
+            "created_by": 6,
+            "warranty": 1,
+            "warranty_period": "1 bulan",
+            "warranty_details": "jakarta timur",
+            "created_at": "2018-07-11T03:12:15+00:00",
+            "dropships": [
+                {
+                    "id": 778,
+                    "company_product_id": "848",
+                    "sku_id": "845",
+                    "province_id": "11",
+                    "city_id": "156",
+                    "created_at": "2018-10-12T03:58:33+00:00",
+                    "hub": [],
+                    "province": {
+                        "id": "11",
+                        "country_id": "1",
+                        "code": "31",
+                        "name": "DKI JAKARTA",
+                        "slug": "dki-jakarta",
+                        "rank": "0",
+                        "status": "99"
+                    },
+                    "city": {
+                        "id": "156",
+                        "province_id": "11",
+                        "name": "KOTA ADM. JAKARTA PUSAT",
+                        "status": "99"
+                    }
+                }
+            ],
+            "tiers": [
+                {
+                    "price": 29410500,
+                    "min_qty": 1,
+                    "max_qty": 2
+                },
+                {
+                    "price": 28831500,
+                    "min_qty": 3,
+                    "max_qty": 5
+                },
+                {
+                    "price": 28252600,
+                    "min_qty": 6,
+                    "max_qty": 10
+                }
+            ],
+            "country": "INDONESIA",
+            "province": "DKI JAKARTA",
+            "city": "KOTA ADM. JAKARTA TIMUR",
+            "seller_name": "Store - 4"
+        },
+        {
+            "product_id": 954,
+            "company_seller_id": 111,
+            "hub_id": 4,
+            "stock": 44,
+            "status": 99,
+            "created_by": 235,
+            "warranty": 2,
+            "warranty_period": "1",
+            "warranty_details": "Garansi Resmi 1 tahun",
+            "created_at": "2018-10-02T10:23:36+00:00",
+            "dropships": [],
+            "tiers": [
+                {
+                    "price": 37259900,
+                    "min_qty": 1,
+                    "max_qty": 2
+                },
+                {
+                    "price": 35983100,
+                    "min_qty": 3,
+                    "max_qty": 5
+                },
+                {
+                    "price": 34822300,
+                    "min_qty": 6,
+                    "max_qty": 10
+                }
+            ],
+            "country": "INDONESIA",
+            "province": "DKI JAKARTA",
+            "city": "KOTA ADM. JAKARTA TIMUR",
+            "seller_name": "Store - 111"
         }
     ]
 }

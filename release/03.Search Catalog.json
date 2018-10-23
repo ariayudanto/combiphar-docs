@@ -29,78 +29,28 @@ STATUS 200 OK
 {
     "items": [
         {
-            "sku_no": "SKU000000000191",
-            "title": "Indomie Mie Goreng Instan - Rasa Rendang - 1 Karton Isi 40 Pcs @ 91 gram",
-            "description": "<p><strong>Indomie</strong> menawarkan mie goreng instan dengan berbagai varian rasa yang pastinya gurih dan lezat. Indomie rasa rendang merupakan varian rasa baru dari Indomie yang akan memberikan rasa rendang yang tajam dan nikmat. Terbuat dari komposisi tepung terigu, minyak nabati, tepung tapioka, garam, penstabil, pengatur keasaman, mineral, pewarna (tartrazin CI 19140), antioksidan (TBHQ). Indomie dengan bahan dari tepung terigu, rempah-rempah dan bumbu terbaik menjadikan Indomie senantiasa menjadi mie instan pilihan nomor satu di Indonesia. Penyajian yang mudah, harga yang lebih hemat serta rasa yang lezat pun membuat mie instan ini peneman Anda di saat lapar.</p>",
-            "short_description": "Indomie menawarkan mie goreng instan dengan berbagai varian rasa yang pastinya gurih dan lezat. ",
-            "shipment_type": 0,
-            "weight": 0.091,
-            "height": 2,
-            "width": 10,
-            "length": 15,
+            "sku_no": "SKU000000004384",
+            "title": "Motor Vespa 125cc warna Orange \"Yamaha\"",
+            "description": "<h4><span style=\"color: #0000ff;\">Vespa adalah merek sepeda motor jenis skuter yang berasal dari Italia. Perusahaan induk dari Vespa, adalah Piaggio</span></h4>",
+            "short_description": "Vespa adalah merek sepeda motor jenis skuter yang berasal dari Italia. Perusahaan induk dari Vespa, adalah Piaggio",
+            "shipment_type": 1,
+            "weight": "50 kg",
+            "height": "150 cm",
+            "width": "100 cm",
+            "length": "250 cm",
             "status": 99,
-            "price_range": {
-                "min_price": {
-                    "id": 764,
-                    "price": 180000
-                },
-                "max_price": null
-            },
-            "total_company_product": 1,
-            "url": "/catalog/detail/indomie-mie-goreng-instan-rasa-rendang-1-karton-isi-40-pcs-91-gram-19-19",
-            "image": "http://img.mbiz.co.id/skus_image/thumbs/500x500/2017/09/12/1b4e09c9efcaf02e1ed9c4494598da2a.jpg"
-        },
-        {
-            "sku_no": "SKU000000000231",
-            "title": "Indomie Mie Instan - Rasa Soto Lamongan - 1 Karton Isi 40 Pcs @ 90 gram",
-            "description": "<p><strong>Indomie</strong> menawarkan mie instan dengan berbagai varian rasa yang pastinya gurih dan lezat. Indomie rasa soto lamongan merupakan varian rasa baru dari Indomie yang akan memberikan rasa soto lamongan yang tajam dan nikmat. Terbuat dari komposisi tepung terigu, minyak nabati, tepung tapioka, garam, penstabil, pengatur keasaman, mineral, pewarna (tartrazin CI 19140), antioksidan (TBHQ). Indomie dengan bahan dari tepung terigu, rempah-rempah dan bumbu terbaik menjadikan Indomie senantiasa menjadi mie instan pilihan nomor satu di Indonesia. Penyajian yang mudah, harga yang lebih hemat serta rasa yang lezat pun membuat mie instan ini peneman Anda di saat lapar.</p>",
-            "short_description": "Indomie menawarkan mie instan dengan berbagai varian rasa yang pastinya gurih dan lezat. ",
-            "shipment_type": 0,
-            "weight": 0.09,
-            "height": 2,
-            "width": 10,
-            "length": 15,
-            "status": 99,
-            "price_range": {
-                "min_price": {
-                    "id": 779,
-                    "price": 180000
-                },
-                "max_price": null
-            },
-            "total_company_product": 1,
-            "url": "/catalog/detail/indomie-mie-instan-rasa-soto-lamongan-1-karton-isi-40-pcs-90-gram-23-23",
-            "image": "http://img.mbiz.co.id/skus_image/thumbs/500x500/2017/09/12/7858df6dcec788cd8c98f590551bc53f.jpg"
-        },
-        {
-            "sku_no": "SKU000000000171",
-            "title": "Indomie Mie Goreng Instan - Rasa Dendeng Balado - 1 Karton Isi 40 Pcs @ 90 gram",
-            "description": "<p><strong>Indomie</strong> menawarkan mie goreng instan dengan berbagai varian rasa yang pastinya gurih dan lezat. Indomie rasa dendeng balado merupakan varian rasa baru dari Indomie yang akan memberikan rasa dendeng yang tajam dan nikmat. Terbuat dari komposisi tepung terigu, minyak nabati, tepung tapioka, garam, penstabil, pengatur keasaman, mineral, pewarna (tartrazin CI 19140), antioksidan (TBHQ). Indomie dengan bahan dari tepung terigu, rempah-rempah dan bumbu terbaik menjadikan Indomie senantiasa menjadi mie instan pilihan nomor satu di Indonesia. Penyajian yang mudah, harga yang lebih hemat serta rasa yang lezat pun membuat mie instan ini peneman Anda di saat lapar.</p>",
-            "short_description": "Indomie menawarkan mie goreng instan dengan berbagai varian rasa yang pastinya gurih dan lezat. ",
-            "shipment_type": 0,
-            "weight": 0.09,
-            "height": 2,
-            "width": 10,
-            "length": 15,
-            "status": 99,
-            "price_range": {
-                "min_price": {
-                    "id": 755,
-                    "price": 180000
-                },
-                "max_price": null
-            },
-            "total_company_product": 1,
-            "url": "/catalog/detail/indomie-mie-goreng-instan-rasa-dendeng-balado-1-karton-isi-40-pcs-90-gram-17-17",
-            "image": "http://img.mbiz.co.id/skus_image/thumbs/500x500/2017/09/12/7994de2f663f3907e4d81974f912a1f4.jpg"
+            "total_company_product": 5,
+            "url": "catalog/detail/motor-vespa-125cc-warna-orange-yamaha-438-845",
+            "image": "http://img.mataharibiz.net/sku_images/thumbs/500x500/2018/07/05/2f31116301112c448003a53cff4e9a29.jpg",
+            "min_price": 26842100
         }
     ],
     "pagination": {
         "page": 1,
-        "total_pages": 6,
-        "total_items": 17,
+        "total_pages": 1,
+        "total_items": 1,
         "per_page": 3,
-        "has_next": true,
+        "has_next": false,
         "has_previous": false
     }
 }
