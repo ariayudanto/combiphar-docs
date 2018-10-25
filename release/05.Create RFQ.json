@@ -6,6 +6,7 @@ Request Body(json)
     "reference_no": "PO-2319-MP",
     "receiver_name": "John Doe",
     "receiver_phone": "0867717123",
+    "receiver_email": "john_doe@mail.com",
     "shipping_district_code": "11.01.03",
     "shipping_address": "Jalan Medan Merdeka Barat No. 12 RT 003 RW 002",
     "shipping_zipcode": "15151",
